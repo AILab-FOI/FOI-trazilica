@@ -1,2 +1,2 @@
 # FOI-trazilica
-Web tražilica implementirana u MS Access-u (primjer projekta za kolegij Baze podataka na studiju Primjena informacijske tehnologije u poslovanju koji se izvodi na Fakultetu organizacije i informatike Sveučilišta u Zagrebu).
+Web tražilica implementirana u MS Access-u (primjer projekta za kolegij Baze podataka na studiju Primjena informacijske tehnologije u poslovanju koji se izvodi na Fakultetu organizacije i informatike Sveučilišta u Zagrebu). Aplikacija nije zamišljena kao profesionalni alat već kao pokazni primjer i zadržavamo pravo da sadrži pogreške, nije funkcionalna odnosno ne služi nikakvoj posebnoj svrsi.
